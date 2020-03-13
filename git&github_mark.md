@@ -100,6 +100,10 @@ esc:退出编辑模式
 
    删除文件：git rm file name
 
+   ​					git add file name
+
+   ​					git commit -m"delete in local repository" file name
+
    找回：git reset --hard index
 
 7. **比较文件差异**
